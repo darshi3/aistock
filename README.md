@@ -54,4 +54,8 @@ Backend Repo: [Stock Analysis Backend](https://github.com/darshi3/StockAnalysisB
 
 ---
 📸 Screenshots
-You can add screenshots or a short GIF here of how the app looks or works.
+### Home Page
+![Stock Analysis UI](./screenshots/screenshort1.png)
+
+### Analysis Page
+![Stock Analysis Page](./screenshots/screenshort2.png)
