@@ -1,5 +1,4 @@
 
-```markdown
 # Stock Analysis Frontend
 
 This is the React-based frontend of the Stock Analysis application. It communicates with the backend via RESTful APIs to provide AI-generated analysis of Indian stocks based on historical data.
