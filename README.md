@@ -51,8 +51,6 @@ Backend Repo: [Stock Analysis Backend](https://github.com/darshi3/StockAnalysisB
 - Displays analysis in a user-friendly interface
 
 ```
-
----
 📸 Screenshots
 ### Home Page
 ![Stock Analysis UI](./screenshots/screenshort1.png)
