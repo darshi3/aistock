@@ -41,7 +41,7 @@ The application will be available at `http://localhost:3000`.
 
 Make sure the backend service (Java Spring Boot) is running. Update the API URLs in your frontend code if needed, so they correctly point to your backend.
 
-Backend Repo: [Stock Analysis Backend](https://github.com/darshi3/StockAnalysisBackend)
+Backend Repo: [Stock Analysis Backend](https://github.com/darshi3/StockAnalysis_backend.git)
 
 ## Features
 
